@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "exportedAt": "2026-03-20T10:07:54.878Z",
+  "exportedAt": "2026-03-20T17:22:46.961Z",
   "tests": [
     {
       "id": "mmyn3qnh4paz",
@@ -17,7 +17,7 @@
       "id": "mmynp11jjiqs",
       "name": "Duphaston 10 mg",
       "dosage": "10mg",
-      "frequency": "Once daily",
+      "frequency": "Twice daily",
       "doctor": "",
       "start": "2026-03-20",
       "end": "",
