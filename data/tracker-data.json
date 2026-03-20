@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "exportedAt": "2026-03-20T09:46:20.852Z",
+  "tests": [
+    {
+      "id": "mmyn3qnh4paz",
+      "name": "USG ABDOMEN & PELVIS",
+      "date": "2026-03-19",
+      "result": "Positive",
+      "doctor": "Dr. Gitanjali Jamwal",
+      "notes": "Single intrauterine pregnancy (inside uterus) → ✅ Good",
+      "createdAt": 1773995477165
+    }
+  ],
+  "medicines": [
+    {
+      "id": "mmynp11jjiqs",
+      "name": "Duphaston 10 mg",
+      "dosage": "10mg",
+      "frequency": "Once daily",
+      "doctor": "",
+      "start": "2026-03-20",
+      "end": "",
+      "notes": "",
+      "createdAt": 1773996470407
+    },
+    {
+      "id": "mmynoisl30el",
+      "name": "Nexpro 40 mg",
+      "dosage": "40mg",
+      "frequency": "Twice daily",
+      "doctor": "",
+      "start": "2026-03-20",
+      "end": "",
+      "notes": "",
+      "createdAt": 1773996446757
+    },
+    {
+      "id": "mmynnskn1jk5",
+      "name": "Folvite 5 mg",
+      "dosage": "5 mg",
+      "frequency": "Once daily",
+      "doctor": "",
+      "start": "2026-03-20",
+      "end": "",
+      "notes": "",
+      "createdAt": 1773996412775
+    }
+  ],
+  "bills": [
+    {
+      "id": "mmyn5i603g8e",
+      "date": "2026-03-20",
+      "hospital": "CloudNine",
+      "description": "consultation",
+      "amount": 1150,
+      "status": "Paid",
+      "notes": "",
+      "createdAt": 1773995559480
+    },
+    {
+      "id": "mmyn4qtd4zn8",
+      "date": "2026-03-19",
+      "hospital": "Aarthi scan",
+      "description": "USG",
+      "amount": 1300,
+      "status": "Paid",
+      "notes": "",
+      "createdAt": 1773995524033
+    }
+  ],
+  "expenses": [],
+  "prescriptions": [
+    {
+      "id": "mmyn7e3vlcxg",
+      "doctor": "Dr. Dipika Deepak",
+      "speciality": "Gynecology",
+      "clinic": "CloudNine",
+      "date": "2026-03-20",
+      "diagnosis": "",
+      "medicines": "",
+      "notes": "",
+      "createdAt": 1773995647531
+    }
+  ]
+}
